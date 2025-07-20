@@ -3,9 +3,8 @@
 Personal projects for Excel automation and modeling of the three main financial statements.
 
 ## Files
-- `Income_Statement.xlsx`: Multi-year income statement template.
-- `Balance_Sheet.xlsx`: Standard balance sheet for analysis.
-- `Cash_Flow.xlsx`: Cash flow statement with formulas and automation.
+- `Chomp Burgers.xlsx`: 4 Year statements with DuPont Analysis.
+- `Game Pirate.xlsx`: 2 Year statements with Automation.
 
 ## Skills Demonstrated
 - Excel Automation
