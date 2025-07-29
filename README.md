@@ -37,7 +37,7 @@ This repository includes four distinct models, each designed to master a differe
     *   Multi-scenario framework (Base, Best, Worst).
     *   Automated Revolving Debt Schedule.
     *   A full DCF Valuation with sensitivity analysis.
-*   `[View Model](/Chomp Burgers.xlsx)`
+*   `[View Model](3-financial-statements/Chomp Burgers.xlsx)`
 
 ---
 
