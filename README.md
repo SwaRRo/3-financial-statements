@@ -21,15 +21,15 @@ This repository includes four distinct models, each designed to master a differe
 
 ### 1. SoulWheels Inc. (Manufacturing)
 *   **Focus:** Modeling physical inventory (Inventory Days), PP&E roll-forwards, and core working capital dynamics. A foundational model for a traditional business.
-*   `[View Model](./SoulWheels_Inc_Model.xlsx)`
+*   `[View Model](SoulWheels_Inc_Model.xlsx)`
 
 ### 2. GamePirate Studios (Technology/SaaS)
 *   **Focus:** Modeling intangible assets (Capitalized Development Costs), amortization, and the crucial liability of deferred revenue.
-*   `[View Model](./GamePirate_Studios_Model.xlsx)`
+*   `[View Model](GamePirate_Studios.xlsx)`
 
 ### 3. Nalanda Press (Hybrid/Publishing)
 *   **Focus:** Integrating multiple complex asset schedules (PP&E and Author Advances) and modeling a dynamic debt schedule with scheduled repayments.
-*   `[View Model](./Nalanda_Press_Model.xlsx)`
+*   `[View Model](Nalanda_Press_Model.xlsx)`
 
 ### 4. Chomp Burgers (Retail) - The Capstone Model
 *   **Focus:** A complete, multi-year forecast incorporating all advanced techniques:
@@ -37,7 +37,7 @@ This repository includes four distinct models, each designed to master a differe
     *   Multi-scenario framework (Base, Best, Worst).
     *   Automated Revolving Debt Schedule.
     *   A full DCF Valuation with sensitivity analysis.
-*   `[View Model](./Chomp_Burgers_Valuation_Model.xlsx)`
+*   `[View Model](Chomp Burgers.xlsx)`
 
 ---
 
